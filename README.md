@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Computer Vision** and **NLP**, alongside various Deep Learning methodologies.
 - 🤔 I’m looking for help with **minimizing hallucinations in Generative AI models**.
 - 💬 Ask me about **anything related to AI**!
-- 📫 How to reach me: wjkim0803#gmail.com
+- 📫 How to reach me: wjkim0803@gmail.com
 
 ---
 
